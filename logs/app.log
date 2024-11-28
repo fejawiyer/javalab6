@@ -1,0 +1,3 @@
+2024-11-28 12:47:58 WARN  org.example.ClientHandler - Null message received
+2024-11-28 12:47:58 WARN  org.example.ClientHandler - Recipient fsiofiesfi is not exists
+2024-11-28 12:48:04 WARN  org.example.ClientHandler - Command // not found
